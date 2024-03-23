@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "mix_task",
+            "request": "launch",
+            "name": "Mix: Phoenix Server",
+            "task": "phx.server",
+        }
+    ]
+}
