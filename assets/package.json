@@ -9,7 +9,7 @@
     "format:check": "npm run format:css -- --check && npm run format:js -- --check"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^9.4.0",
     "prettier": "^3.2.5",
     "stylelint": "^16.2.1",
     "stylelint-config-standard-scss": "^13.0.0"
